@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "531114af-22c9-41a6-9c96-2183300c679f",
+		"name": "Internship work",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "34454166"
+	},
+	"item": [
+		{
+			"name": "http://34.225.132.160:8002/api",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"mugdha@ans.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://34.225.132.160:8002/api"
+			},
+			"response": []
+		}
+	]
+}
